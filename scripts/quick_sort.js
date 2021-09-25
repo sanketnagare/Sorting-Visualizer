@@ -30,8 +30,8 @@ function quick_partition (start, end)
                 div_update(divs[i],div_sizes[i],"red");//Height update
                 div_update(divs[j],div_sizes[j],"red");//Height update
 
-                div_update(divs[i],div_sizes[i],"blue");//Height update
-                div_update(divs[j],div_sizes[j],"blue");//Height update
+                div_update(divs[i],div_sizes[i],"green");//Height update
+                div_update(divs[j],div_sizes[j],"green");//Height update
 
                 i += 1;
             }
