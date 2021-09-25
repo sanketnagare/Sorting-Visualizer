@@ -7,7 +7,7 @@ function Heap() {
 }
 function swap(i, j) {
     div_update(divs[i], div_sizes[i], "red");//Color update
-    div_update(divs[j], div_sizes[j], "red");//Color update
+    div_update(divs[j], div_sizes[j], "red");//Color updat
 
     var temp = div_sizes[i];
     div_sizes[i] = div_sizes[j];
